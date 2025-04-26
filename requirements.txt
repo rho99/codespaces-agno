@@ -1,3 +1,7 @@
 agno
 python-dotenv
 ipykernel
+groq
+yfinance
+ipywidgets
+jupyterlab_widgets
